@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/Adityarana5855/leetcode/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
