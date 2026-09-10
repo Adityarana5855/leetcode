@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityarana5855/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
+## Bitmask
+|  |
+| ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 <!---LeetCode Topics End-->
