@@ -38,6 +38,7 @@
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Adityarana5855/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Adityarana5855/leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Adityarana5855/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityarana5855/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
@@ -94,4 +95,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adityarana5855/leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Adityarana5855/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
