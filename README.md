@@ -7,6 +7,7 @@
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
+| [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/Adityarana5855/leetcode/tree/master/0835-image-overlap) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -88,15 +89,29 @@
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityarana5855/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adityarana5855/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adityarana5855/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityarana5855/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
