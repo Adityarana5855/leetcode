@@ -6,6 +6,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/Adityarana5855/leetcode/tree/master/0835-image-overlap) |
@@ -92,6 +93,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -134,5 +136,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
