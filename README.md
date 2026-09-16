@@ -19,6 +19,7 @@
 | [0091-decode-ways](https://github.com/Adityarana5855/leetcode/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityarana5855/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adityarana5855/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -63,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/Adityarana5855/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -125,4 +127,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityarana5855/leetcode/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
