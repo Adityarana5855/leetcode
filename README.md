@@ -50,6 +50,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Adityarana5855/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityarana5855/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adityarana5855/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityarana5855/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Adityarana5855/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityarana5855/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
