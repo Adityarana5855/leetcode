@@ -11,6 +11,7 @@
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/Adityarana5855/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Adityarana5855/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityarana5855/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adityarana5855/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -149,11 +152,13 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
