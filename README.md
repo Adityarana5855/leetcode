@@ -8,6 +8,7 @@
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/Adityarana5855/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -111,12 +112,14 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Adityarana5855/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityarana5855/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Adityarana5855/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -135,6 +139,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adityarana5855/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityarana5855/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adityarana5855/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
