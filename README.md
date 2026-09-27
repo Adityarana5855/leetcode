@@ -7,6 +7,7 @@
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
@@ -75,11 +76,13 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adityarana5855/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adityarana5855/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityarana5855/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Adityarana5855/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -120,6 +124,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Adityarana5855/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -128,6 +133,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityarana5855/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Adityarana5855/leetcode/tree/master/1096-brace-expansion-ii) |
