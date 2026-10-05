@@ -66,6 +66,7 @@
 | [0091-decode-ways](https://github.com/Adityarana5855/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Adityarana5855/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityarana5855/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Adityarana5855/leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Adityarana5855/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Adityarana5855/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityarana5855/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityarana5855/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adityarana5855/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
@@ -149,6 +151,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityarana5855/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Adityarana5855/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adityarana5855/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
