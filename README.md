@@ -7,6 +7,7 @@
 | [0078-subsets](https://github.com/Adityarana5855/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityarana5855/leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityarana5855/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Adityarana5855/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Adityarana5855/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +138,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Adityarana5855/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityarana5855/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Adityarana5855/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adityarana5855/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
