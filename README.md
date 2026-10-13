@@ -24,6 +24,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Adityarana5855/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityarana5855/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adityarana5855/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adityarana5855/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Adityarana5855/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adityarana5855/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityarana5855/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adityarana5855/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adityarana5855/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adityarana5855/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
