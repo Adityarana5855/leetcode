@@ -17,6 +17,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityarana5855/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Adityarana5855/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adityarana5855/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adityarana5855/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adityarana5855/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityarana5855/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityarana5855/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityarana5855/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adityarana5855/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Adityarana5855/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Adityarana5855/leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Adityarana5855/leetcode/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adityarana5855/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adityarana5855/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adityarana5855/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
